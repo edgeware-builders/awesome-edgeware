@@ -10,6 +10,7 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
     - [Telegram](#telegram)
   - [Working Groups](#working-groups)
   - [RPC Servers](#rpc-servers)
+  - [Faucets](#faucets)
 - [Wallets](#wallets)
 - [Tutorials and Projects](#tutorials-and-projects)
   - [Projects in Production](#projects-in-production)
@@ -64,6 +65,9 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 ## RPC Servers
 * Mainnet - mainnet1.edgewa.re
 * Beresheet - beresheet1.edgewa.re
+
+## Faucets
+* [Beresheet Testnet Faucet](https://beresheet-faucet.vercel.app/)
   
 # Wallets
 * [Polkadot.js Apps](https://polkadot.js.org/apps/)
@@ -71,7 +75,11 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 
 # Tutorials and Projects
 * [Contracts on Edgeware](https://contracts.edgewa.re)
-
+* [Live Smart Contracts on Beresheet](https://contracts.edgewa.re/#/0/live-deployed-smart-contracts)
+* [Deploy ink! Smart Contract on Edgeware](https://contracts.edgewa.re/#/0/introduction)
+* [Deploy ERC20 written in ink! on Edgeware](https://contracts.edgewa.re/#/2/introduction)
+* [Deploy Solidity Smart Contract on Edgeware](https://contracts.edgewa.re/#/4/evm-introduction)
+  
 ## Projects in Production
 
 * [YieldScan](https://yieldscan-edgeware.vercel.app/)
