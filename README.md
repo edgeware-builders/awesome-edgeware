@@ -56,7 +56,7 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 * [Edgeware Türkiye](https://t.me/EdgewareTUR)
 
 ## Working Groups - Engage with focused community
-* [wg-artists](https://commonwealth.im/edgeware/discussions/wg-artists)
+* [wg-artists](https://commonwealth.im/edgeware/discussions/wg-artists), [Telegram Chat](https://t.me/joinchat/GZzH7hjuK8zMssP45b8AEA)
 * [wg-brand](https://commonwealth.im/edgeware/discussions/wg-brand), [Telegram Chat](https://t.me/EdgewareAgency)
 * [wg-builders](https://commonwealth.im/edgeware/discussions/wg-builders), [Telegram Chat](https://t.me/edg_developers)
 * [wg-DAOs](https://commonwealth.im/edgeware/discussions/wg-DAOs)
