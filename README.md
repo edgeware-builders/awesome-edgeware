@@ -107,6 +107,8 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 
 ### Mobile GUIs
 
+* [Edgeware Wallet(beta)](https://github.com/shekohex/edgeware-wallet)
+
 ### Analytics 
 
 ### NFT
