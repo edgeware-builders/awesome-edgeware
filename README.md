@@ -65,6 +65,7 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 * [wg-games](https://commonwealth.im/edgeware/discussions/wg-games), [Telegram Chat](https://t.me/joinchat/GZzH7kcK0v2JA5yUG3Ttuw)
 * [wg-governance](https://commonwealth.im/edgeware/discussions/wg-governance)
 * [wg-partnerships](https://commonwealth.im/edgeware/discussions/wg-partnerships)
+* [wg-universities(https://t.me/EDGuniWG)
 
 ## RPC Servers
 * Mainnet - [mainnet4.edgewa.re](wss://mainnet4.edgewa.re)
