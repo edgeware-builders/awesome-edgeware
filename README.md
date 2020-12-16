@@ -54,6 +54,7 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 * [General Announcements](https://t.me/edgeware_announcements)
 * [Edgeware India](https://t.me/EdgewareIndia)
 * [Edgeware Türkiye](https://t.me/EdgewareTUR)
+* [Edgeware Korea](https://t.me/edgeware_Kor)
 
 ## Working Groups - Engage with focused community
 * [wg-artists](https://commonwealth.im/edgeware/discussions/wg-artists), [Telegram Chat](https://t.me/joinchat/GZzH7hjuK8zMssP45b8AEA)
@@ -65,7 +66,7 @@ A curated (unofficial) list of awesome things for people looking to buidl on Edg
 * [wg-games](https://commonwealth.im/edgeware/discussions/wg-games), [Telegram Chat](https://t.me/joinchat/GZzH7kcK0v2JA5yUG3Ttuw)
 * [wg-governance](https://commonwealth.im/edgeware/discussions/wg-governance)
 * [wg-partnerships](https://commonwealth.im/edgeware/discussions/wg-partnerships)
-* [wg-universities(https://t.me/EDGuniWG)
+* [wg-universities](https://t.me/EDGuniWG)
 
 ## RPC Servers
 * Mainnet - [mainnet4.edgewa.re](wss://mainnet4.edgewa.re)
